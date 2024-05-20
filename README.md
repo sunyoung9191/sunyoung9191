@@ -1,9 +1,9 @@
 <!-- Header -->
 
-![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Good%20Day%20To%20Code!&fontAlign=40&fontAlignY=40&color=gradient)
+![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi,%20I'm%20sunyoung&fontColor=f0ffff&fontSize=62&fontAlignY=35&fontAlign=32)
 
 <!-- 방문자 수 -->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233D69C8&title_bg=%23555555&icon=protocols-dot-io.svg&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsunyoung9191&count_bg=%23FAEBD7&title_bg=%23A52A2A&icon=spotlight.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 🙇 안녕하세요, Full-Stack Programmer로 성장해나가고 있는 박선영입니다! 
 
 * 저는 `back-end`를 준비하고 있는 박선영입니다.
@@ -12,6 +12,10 @@
 <!-- Body -->
 
 ### ⚙️ MY TECH STACK
+
+### 🫶Interests
+![spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge)
+![python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge)
 
 
 ### 🦾 Skills
@@ -24,7 +28,7 @@
 ![django](https://img.shields.io/badge/django-092E20.svg?&style=for-the-badge&logo=django&logoColor=white)<br>
 ![html5](https://img.shields.io/badge/html5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![css3](https://img.shields.io/badge/css3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge)
 ![vuedotjs](https://img.shields.io/badge/vue.js-4FC08D.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -41,3 +45,7 @@
 ![pycharm](https://img.shields.io/badge/pycharm-000000.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunyoung9191&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunyoung9191&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
